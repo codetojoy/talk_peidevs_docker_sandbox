@@ -1,0 +1,1 @@
+Please read docs/Spec.md and docs/TODO-000-prime-scaffolding.md, and formulate a plan. No action yet, just a plan.
