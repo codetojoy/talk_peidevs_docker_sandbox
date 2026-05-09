@@ -5,7 +5,7 @@ Resources and attribution for a talk in May 2026.
 
 ### Resources
 
-* [Hanselminutes podcast](https://www.youtube.com/watch?v=sQh-a12j5Ow) on YouTube
+* YouTube: [Hanselminutes podcast](https://www.youtube.com/watch?v=sQh-a12j5Ow)
 * [Docker docs](https://docs.docker.com/ai/sandboxes/)
 * [Docker sbx CLI docs](https://docs.docker.com/reference/cli/docker/)
 * [sbx quickstart tutorial](https://github.com/dockersamples/sbx-quickstart)
