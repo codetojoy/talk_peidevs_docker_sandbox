@@ -49,9 +49,15 @@ docker ps
 * optional: `/init`
 
 ### sandbox network
+
 * can you build project?
 * host: `./policy-allow.sh`
 * host: `sbx`
+
+### host run app
+
+* `./run-app.sh`
+* `./commit-phase0-prime.sh`
 
 ### sandbox Phase 1: palindrome
 
