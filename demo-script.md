@@ -1,5 +1,12 @@
 
 
+### browser prep
+
+* tab: PEI Devs
+* tab: Play Framework
+* tab: localhost
+* tab: backup demo slide 18
+
 ### prep
 
 * go until PREP_END 
@@ -8,6 +15,7 @@
 
 * `cd demo-seed-resources`
 * `./seed.sh $TARGET_DIR`
+* `cd` for terminals
 
 ### host reset
 
@@ -15,6 +23,7 @@
 sbx rm [sandbox]
 sbx reset
 sbx login
+OR: sbx secret rm
 ------------------> PREP_END
 echo $GITHUB_RAW_TOKEN | sbx secret set -g github
 sbx secret ls
