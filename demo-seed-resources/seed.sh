@@ -18,6 +18,7 @@ cp -r my-resources $TARGET_DIR/.
 cp build-palindrome-front-end.sh $TARGET_DIR/.
 cp build-palindrome-back-end.sh $TARGET_DIR/.
 cp commit-phase0-prime.sh $TARGET_DIR/.
+cp policy-allow.sh $TARGET_DIR/.
 cp run-app.sh $TARGET_DIR/.
 cp test-app.sh $TARGET_DIR/.
 cp phase0-prime-prompt.txt $TARGET_DIR/.

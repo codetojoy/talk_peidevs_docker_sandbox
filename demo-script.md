@@ -1,4 +1,9 @@
 
+
+### prep
+
+* go until PREP_END 
+
 ### new project folder
 
 * `cd demo-seed-resources`
@@ -10,6 +15,7 @@
 sbx rm [sandbox]
 sbx reset
 sbx login
+------------------> PREP_END
 echo $GITHUB_RAW_TOKEN | sbx secret set -g github
 sbx secret ls
 ```
