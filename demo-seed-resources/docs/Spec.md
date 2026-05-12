@@ -10,11 +10,13 @@
 
 ### Technical Summary
 
-* Java 21
-* Play Framework 3.0.x
-* sbt as appropriate for Play Framework version
-* latest jQuery: use CDN
-* latest Knockout JS: use CDN
+* use Java 21
+* use Play Framework 3.0.5
+* use sbt version 1.10.1
+* use JUnit 5 
+* use latest jQuery: via CDN
+* use latest Knockout JS: via CDN
+* for invalid input, return HTTP 400 with human-readable message
 * no database configuration for now (and likely a long time) 
 * no authentication
 

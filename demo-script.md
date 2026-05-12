@@ -65,6 +65,7 @@ docker ps
 ### sandbox network
 
 * can you build project?
+* browser: show default choice
 * host: `./policy-allow.sh`
 * host: `sbx`
 
