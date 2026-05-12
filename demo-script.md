@@ -23,7 +23,6 @@
 sbx rm [sandbox]
 sbx reset
 sbx login
-OR: sbx secret rm
 ------------------> PREP_END
 echo $GITHUB_RAW_TOKEN | sbx secret set -g github
 sbx secret ls
