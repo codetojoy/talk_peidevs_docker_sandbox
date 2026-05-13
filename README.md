@@ -5,6 +5,7 @@ Resources and attribution for a talk in May 2026.
 
 ### Resources
 
+* Docker [AI Governance](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/)
 * Docker [blog post](https://www.linkedin.com/pulse/why-microvms-architecture-behind-docker-sandboxes-docker-ome2c/) on LinkedIn
 * YouTube: [Hanselminutes podcast](https://www.youtube.com/watch?v=sQh-a12j5Ow)
 * [Docker docs](https://docs.docker.com/ai/sandboxes)
