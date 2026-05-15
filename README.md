@@ -18,6 +18,7 @@ Note: `sbx` was previously known as `docker sandbox` and `ds`, so you may see th
 * YouTube: [Docker Sandbox for AI Agents: Explained](https://www.youtube.com/watch?v=mlgRdWKVtZw)
     * The slides contain screenshots from this excellent video by Official Elastic Community.
 * YouTube: [Docker AI, What's New...](https://www.youtube.com/watch?v=dTF3b36Bq6w)
+    * Skip to 33m00s
 
 ### Attribution
 
