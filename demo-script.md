@@ -58,7 +58,9 @@ docker ps
 
 ### sandbox Phase 0: prime
 
-* `cat phase0-prime-prompt.txt | pbcopy`
+```
+cat phase0-prime-prompt.txt | pbcopy
+```
 * Answers questions. Please implement
 * optional: `/init`
 
