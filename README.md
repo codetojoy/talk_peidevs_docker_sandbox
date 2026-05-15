@@ -16,6 +16,7 @@ Note: `sbx` was previously known as `docker sandbox` and `ds`, so you may see th
 * [sbx quickstart tutorial](https://github.com/dockersamples/sbx-quickstart)
     * This tutorial inspired the demo. The example project used here is much more sophisticated than "Math Facts".
 * YouTube: [Docker Sandbox for AI Agents: Explained](https://www.youtube.com/watch?v=mlgRdWKVtZw)
+    * The slides contain screenshots from this excellent video by Official Elastic Community.
 * YouTube: [Docker AI, What's New...](https://www.youtube.com/watch?v=dTF3b36Bq6w)
 
 ### Attribution
