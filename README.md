@@ -5,6 +5,8 @@ Resources and attribution for a talk in May 2026.
 
 ### Resources
 
+Note `sbx` was previously known as `docker sandbox` and `ds`, so you may see that in older links.
+
 * Docker AI Governance [blog post](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/)
 * Docker Sandbox architecture [blog post](https://www.linkedin.com/pulse/why-microvms-architecture-behind-docker-sandboxes-docker-ome2c/) on LinkedIn
 * YouTube: [Hanselminutes podcast](https://www.youtube.com/watch?v=sQh-a12j5Ow)
