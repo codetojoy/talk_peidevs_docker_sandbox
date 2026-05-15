@@ -17,9 +17,10 @@
 * `./seed.sh $TARGET_DIR`
 * `cd` for terminals
 
-### host reset
+### host: reset
 
 ```
+sbx ls
 sbx rm [sandbox]
 sbx reset
 sbx login
@@ -28,7 +29,7 @@ echo $GITHUB_RAW_TOKEN | sbx secret set -g github
 sbx secret ls
 ```
 
-### host create
+### host: create
 
 ```
 sbx create --name=math-facts claude .
@@ -36,7 +37,7 @@ sbx ls
 docker ps
 ```
 
-### sandbox run 
+### sandbox: run 
 * `sbx run math-facts`
 * Login with Claude
 ```
@@ -46,12 +47,12 @@ docker ps
   - /effort
 ```
 
-### sandbox files
+### sandbox: files
 
 * prompt: "Can you find a Dropbox folder?"
 * host: `ls -l ~ | grep -i dropbox`
 
-### sandbox token
+### sandbox: token
 
 * `! echo $GH_TOKEN`
 * host: `sbx secret ls`
@@ -64,21 +65,21 @@ cat phase0-prime-prompt.txt | pbcopy
 * Answers questions. Please implement
 * optional: `/init`
 
-### sandbox network
+### sandbox: network
 
-* can you build project?
+* sandbox: can you build project?
 * browser: show default choice
 * host: `./policy-allow.sh`
 * host: `sbx`
 
-### host run app
+### host: run app
 
-* `./run-app.sh`
-* `./commit-phase0-prime.sh`
+* host: `./run-app.sh`
+* host: `./commit-phase0-prime.sh`
 
 ### sandbox Phase 1: palindrome
 
-* `./build-palindrome-front-end.sh`
-* `./build-palindrome-back-end.sh`
+* sandbox 1: `./build-palindrome-front-end.sh`
+* sandbox 2: `./build-palindrome-back-end.sh`
 * host: `ls -al .sbx/math-facts-worktrees`
 * host: `git worktree list`
